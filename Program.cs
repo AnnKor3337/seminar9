@@ -39,3 +39,6 @@ void NatSumm(int m, int n, int summ)
     }
     NatSumm(m, n - 1, summ);
 } */
+
+
+// Cпасибо большое за Ваш труд!
